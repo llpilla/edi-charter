@@ -2,7 +2,7 @@
 
 [LaBRI's Equity, Diversity and Inclusion Charter](https://github.com/llpilla/edi-charter/blob/main/charter-en.md) © 2022 by [LaBRI](https://www.labri.fr/) is licensed under the terms of the [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
 
-Inspired by [the IRIF Members' Charter](https://www.irif.fr/en/informations/charte).
+Inspired by and adapted from [the IRIF Members' Charter](https://www.irif.fr/en/informations/charte).
 Parts of this document are automatic translations of its original French version made using DeepL Translator.
 
 ## Introduction 

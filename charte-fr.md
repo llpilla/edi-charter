@@ -2,7 +2,7 @@
 
 [La Charte d’Équité, Diversité et Inclusion du LaBRI](https://github.com/llpilla/edi-charter/blob/main/charte-fr.md) © 2022 by [LaBRI](https://www.labri.fr/) est mise à disposition selon les termes de la license [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.fr).
 
-Inspirée par [la charte des membres de l’IRIF](https://www.irif.fr/informations/charte).
+Inspirée par et adapté de [la charte des membres de l’IRIF](https://www.irif.fr/informations/charte).
 
 ## Introduction 
 
